@@ -30,6 +30,4 @@ We welcome contributions to enhance the functionality and design of Kodi Boutiqu
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-Thank you for choosing Kodi Boutique. Happy shopping!
+This repository operates under an open-source license, reflecting our commitment to fostering a collaborative environment. Feel free to explore, contribute, and appreciate the seamless convergence of tradition and style at Kodi Boutique. Welcome to a realm where every line of code reflects the sophistication of our curated selection.
